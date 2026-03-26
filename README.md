@@ -20,7 +20,7 @@ Complete documentation and artifacts for MotaDSLUM, an internal DSL that generat
 
 ## Tutorial Videos
 
-All videos available on **[OneDrive](https://motadataindia-my.sharepoint.com/:f:/g/personal/prem_modha_motadata_com/IgCDB6_PNgfISqqh40kOw1X2ATsXx-tgB0XvUwqvxDMRC5Q?e=4RYzHG)**.
+All videos available on ****Motadata Documents > NextGen > MPS-DSL-Tutorial****.
 
 | # | Topic | What you'll learn |
 |---|-------|-------------------|
@@ -40,7 +40,7 @@ All videos available on **[OneDrive](https://motadataindia-my.sharepoint.com/:f:
 | Presenting to stakeholders | [Meeting Presentation](docs/meeting-presentation.md) |
 | Writing about it externally | [Blog Post](docs/blog-post.md) |
 | Understanding a specific topic | [Knowledge Graph](knowledge-graph/) |
-| Watching tutorials | [Videos](videos/) &mdash; [OneDrive](https://motadataindia-my.sharepoint.com/:f:/g/personal/prem_modha_motadata_com/IgCDB6_PNgfISqqh40kOw1X2ATsXx-tgB0XvUwqvxDMRC5Q?e=4RYzHG) |
+| Watching tutorials | [Videos](videos/) &mdash; **Motadata Documents > NextGen > MPS-DSL-Tutorial** |
 
 ## Architecture
 

@@ -1,6 +1,6 @@
 # Tutorial Videos
 
-6 MPS tutorial screencasts. All available on **[OneDrive](https://motadataindia-my.sharepoint.com/:f:/g/personal/prem_modha_motadata_com/IgCDB6_PNgfISqqh40kOw1X2ATsXx-tgB0XvUwqvxDMRC5Q?e=4RYzHG)**.
+6 MPS tutorial screencasts. All available on ****Motadata Documents > NextGen > MPS-DSL-Tutorial****.
 
 | # | File | Size | Content |
 |---|------|------|---------|
@@ -11,7 +11,7 @@
 | 5 | 05-installing-and-using-plugin.mp4 | 24MB | Installing and using the plugin locally |
 | 6 | 06-bonus-splitting-one-file-into-many.mp4 | 7.8MB | Overcoming MPS's 1:1 root-to-file constraint |
 
-Parts 4 and 6 are included in this repo. All 6 are on [OneDrive](https://motadataindia-my.sharepoint.com/:f:/g/personal/prem_modha_motadata_com/IgCDB6_PNgfISqqh40kOw1X2ATsXx-tgB0XvUwqvxDMRC5Q?e=4RYzHG).
+Parts 4 and 6 are included in this repo. All 6 are on **Motadata Documents > NextGen > MPS-DSL-Tutorial**.
 
 ## Part 6: Bonus — Splitting One File into Many
 

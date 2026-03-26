@@ -1,6 +1,6 @@
 # Bonus: Overcoming the 1:1 Root-Concept-to-File Constraint
 
-> **Companion video:** [`videos/06-bonus-splitting-one-file-into-many.mp4`](../videos/06-bonus-splitting-one-file-into-many.mp4) | [OneDrive](https://motadataindia-my.sharepoint.com/:f:/g/personal/prem_modha_motadata_com/IgCDB6_PNgfISqqh40kOw1X2ATsXx-tgB0XvUwqvxDMRC5Q?e=4RYzHG)
+> **Companion video:** [`videos/06-bonus-splitting-one-file-into-many.mp4`](../videos/06-bonus-splitting-one-file-into-many.mp4) | **Motadata Documents > NextGen > MPS-DSL-Tutorial**
 
 ---
 
