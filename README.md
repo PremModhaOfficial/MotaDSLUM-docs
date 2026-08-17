@@ -20,7 +20,7 @@ Complete documentation and artifacts for MotaDSLUM, an internal DSL that generat
 
 ## Tutorial Videos
 
-All videos available on ****Motadata Documents > NextGen > MPS-DSL-Tutorial****.
+All videos available on ****Motadata Documents > NextGen > Domain-Specific-Language-MPS-Tutorial****.
 
 | # | Topic | What you'll learn |
 |---|-------|-------------------|
@@ -40,7 +40,7 @@ All videos available on ****Motadata Documents > NextGen > MPS-DSL-Tutorial****.
 | Presenting to stakeholders | [Meeting Presentation](docs/meeting-presentation.md) |
 | Writing about it externally | [Blog Post](docs/blog-post.md) |
 | Understanding a specific topic | [Knowledge Graph](knowledge-graph/) |
-| Watching tutorials | [Videos](videos/) &mdash; **Motadata Documents > NextGen > MPS-DSL-Tutorial** |
+| Watching tutorials | [Videos](videos/) &mdash; **Motadata Documents > NextGen > Domain-Specific-Language-MPS-Tutorial** |
 
 ## Architecture
 
